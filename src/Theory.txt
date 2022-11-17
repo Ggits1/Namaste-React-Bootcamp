@@ -1,0 +1,3 @@
+Relationship btw JavaScript and React->
+React is kind of wrapper over JS code.  
+
